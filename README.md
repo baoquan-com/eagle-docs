@@ -1,5 +1,5 @@
 # 保全网API文档V2
 
-[![docs](https://readthedocs.org/projects/docs/badge/?version=latest)](http://eagle-docs.readthedocs.io/zh/latest/?badge=latest)
+[![docs](https://readthedocs.org/projects/docs/badge/?version=latest)](https://docs.baoquan.com/projects/v2/zh-cn/latest/)
 
-参考[readthedocs](http://docs.readthedocs.io/en/latest/index.html)
+参考[readthedocs](https://docs.baoquan.com/projects/v2/zh-cn/latest/)
